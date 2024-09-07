@@ -1,0 +1,24 @@
+.top-section{
+    display: none;
+}
+.top-phone{
+    display: flex;
+    justify-content: right;
+    text-align: center;
+    align-items: center;
+}
+
+.phone{
+    width: 120px;
+    background-color: rgba(3, 32, 75, 0.582);
+    color: white;
+    position: fixed;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.night{
+        background-color: gray;
+}
